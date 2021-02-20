@@ -6,5 +6,10 @@
   --light: #fffaf7;
 }
 
+* {
+  color: var(--brown);
+  background-color: var(--light);
+}
+
 /* Add your custom class style definitions here */
 /* HINT: Apply CSS variables using `var(--brown)` syntax as your property value */
